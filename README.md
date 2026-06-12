@@ -74,6 +74,8 @@ php artisan serve
 ## Developer
 
 **Jihan MD**
+**Meem Muhammad Al Ha**
+**Abdullah Al Zubayer**
 
 International Islamic University Malaysia (IIUM)
 
