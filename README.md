@@ -2,14 +2,12 @@
 ### Group F Members
 |     NAME      |   MATRIC NO.   |     TASK      | 
 | ------------- | ------------- | ------------- |
-|1. Maria Wardah binti Mohd Ghazali | 2218014 | Objectives, Travel Package |
-|2. Amir Mustaqim Bin Ismail  | 2218607 |  Features & Functionalities, Hotel, Prayer Space  |
-|3. Aisha Humairah binti Ahmad Adzuan  | 2219130  |  ERD, Login, Destinations & Flights   |
-|4. Siti Hajar 'Aainaa binti Hamid | 2218648  |    Title & Introduction, Restaurant |
-|5. Musanna Sarder Abdullah          | 2220429  |   Sequence Diagram        
-
+|1. MD.JIHAN | 2311141 | Objectives, Travel Package, Title & Introduction, Restaurant |
+|2. MEEM MUHAMMAD AL HA  | 2322477 |  Features & Functionalities, Hotel, Destinations & Flights, Prayer Space  |
+|3. ABDULLAH AL JUBAYER  | 2131751  |  ERD, Login, Sequence Diagram |
+      
 ### Title
-Taqwa Travels
+MUSAFIR MATE
 
 ### Introduction
 Traveling is a universal activity that bridges cultures, fosters understanding, and creates lasting memories. However, for Muslim travelers, finding accommodations, dining options, and prayer facilities that align with Islamic principles can be a significant challenge. The lack of easily accessible information on Shariah-compliant services often leads to inconvenience and limits their ability to enjoy travel experiences to the fullest.
@@ -75,8 +73,6 @@ e) **Login and User Management**
 
 ![SqD](https://github.com/user-attachments/assets/6258e527-a119-4f6a-8938-0c4a3d00b0da)
 
-### Mock Up
-[View the Mock-Up on Canva](https://www.canva.com/design/DAGZthEtXYk/v3tOHtIv05zn2EpcwOnXLQ/edit)
 
 ### Screenshots with description
 
