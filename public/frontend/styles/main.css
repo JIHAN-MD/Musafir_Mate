@@ -1,0 +1,647 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Assistant', sans-serif;
+    color: #071C4D;
+  }
+
+  .navbar-brand img {
+    max-height: 70px;
+  }
+
+  .navbar-light .navbar-nav .nav-link {
+    color: #071C4D;
+  }
+
+  .navbar-light .navbar-nav .nav-link.active {
+    font-weight: bold;
+    color: #071C4D;
+  }
+
+  .btn-login {
+      background-color: #071C4D;
+      color: #ffffff;
+      padding: 10px 20px; /* Adjust the padding to fit the text */
+      border: none; /* Remove border */
+      text-align: center; /* Ensure text is centered */
+      display: inline-block; /* Keep it inline */
+      font-size: 16px; /* Adjust font size if needed */
+      width: auto; /* Ensure width adjusts to content */
+      box-sizing: border-box; /* Prevent padding from expanding the button */
+      border-radius: 0; /* Normal rectangle */
+    }
+
+    .btn-login:hover {
+      background-color: #2A53B4;
+      color: #ffffff;
+    }
+
+
+  header {
+    padding: 180px 0 165px;
+    margin-top: -70px;
+    background-image: url("../images/header 2.png");
+    background-size: cover;
+  }
+
+  header h1, header p {
+    color: #ffffff;
+  }
+
+  header h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-size: 50px;
+  }
+
+  header p {
+    font-size: 22px;
+  }
+
+  header .btn-get-started {
+    background-color: #FF9E53;
+    color: #ffffff;
+  }
+
+  header .btn-get-started:hover {
+    background-color: #ffaa69;
+    color: #ffffff;
+  }
+
+
+  .destination-title {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white; /* White text for contrast */
+      text-align: center;
+      z-index: 2; /* Ensures the text appears above the image */
+  }
+
+  .destination-title h1 {
+      font-size: 3rem;
+      font-weight: bold;
+  }
+
+  .destination-title p {
+      font-size: 1.2rem;
+  }
+
+  .section-stats {
+    margin-top: -50px;
+  }
+
+  .section-stats .stats-detail {
+    padding-top: 15px;
+    background-color: #ffffff;
+    padding-left: 40px;
+  }
+
+  .section-stats h2 {
+    font-size: 30px;
+    margin-bottom: 0;
+    font-weight: bolder;
+  }
+
+  .section-stats p {
+    font-size: 20px;
+    font-weight: lighter;
+  }
+
+  .section-popular {
+    min-height: 540px;
+    background-color: transparent;
+    margin-top: -50px;
+    margin-bottom: -230px;
+  }
+
+  .section-popular .section-popular-heading {
+    margin-top: 150px;
+  }
+
+  .section-popular .section-popular-heading h2, .section-popular .section-popular-heading p {
+    color: #000000;
+  }
+
+  .section-popular .section-popular-heading h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-size: 40px;
+  }
+
+  .section-popular .section-popular-heading p {
+    font-size: 18px;
+  }
+
+  .section-popular-content .section-popular-travel .card-travel {
+      min-height: 380px;
+      background-color: transparent; /* This might be the issue */
+      color: #ffffff;
+      padding: 30px;
+      background-size: cover;
+      margin-bottom: 20px;
+    }
+
+
+  .section-popular-content .section-popular-travel .travel-country {
+    font-family: 'Assistant', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: #ffffff;
+  }
+
+  .section-popular-content .section-popular-travel .travel-location {
+    font-family: 'Assistant', sans-serif;
+    font-weight: normal;
+    font-size: 26px;
+    color: #ffffff;
+  }
+
+  /* Style for the travel button */
+  .section-popular-content .section-popular-travel .btn-travel-details {
+      background-color: #071C4D; /* Orange background */
+      color: white; /* White text */
+      padding: 10px 20px; /* Adjust padding for better size */
+      font-size: 16px;
+      border-radius: 5px; /* Rounded corners */
+      text-decoration: none; /* Remove underline */
+      display: inline-block; /* Ensure it's not block level */
+      text-align: center; /* Center text */
+      margin-top: 10px; /* Add some space above the button */
+      transition: background-color 0.3s ease; /* Smooth transition on hover */
+    }
+
+    .section-popular-content .section-popular-travel .btn-travel-details:hover {
+      background-color: #2A53B4; /* Lighten the background on hover */
+      color: white; /* Keep text white */
+    }
+
+
+
+  .section-network {
+    background-color: #ffffff;
+    margin-top: -170px;
+    padding-top: 240px;
+    padding-bottom: 50px;
+  }
+
+  .section-network h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-size: 40px;
+  }
+
+  .section-network p {
+    font-size: 18px;
+  }
+
+  .section-network img {
+    max-width: 100%;
+  }
+
+  .section-testimonial-heading {
+    background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#f7f9ff));
+    background: linear-gradient(#fff 0%, #f7f9ff 100%);
+    padding-top: 50px;
+    min-height: 506px;
+  }
+
+  .section-testimonial-heading h2 {
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+    font-size: 40px;
+  }
+
+  .section-testimonial-heading p {
+    font-size: 18px;
+  }
+
+  .section-testimonial-content {
+    margin-top: -300px;
+    padding-bottom: 50px;
+  }
+
+  .section-testimonial-content .card-testimonial {
+    padding: 40px 20px 10px;
+    border-radius: 11px;
+    margin-bottom: 20px;
+  }
+
+  .section-testimonial-content .card-testimonial .testimonial-content {
+    min-height: 380px;
+  }
+
+  .section-testimonial-content .card-testimonial h3 {
+    font-size: 22px;
+  }
+
+  .section-testimonial-content .card-testimonial .testimonial {
+    font-weight: 200;
+    font-size: 26px;
+    color: #6e6e6e;
+    min-height: 160px;
+  }
+
+  .section-testimonial-content .card-testimonial .trip-to {
+    font-weight: normal;
+    font-size: 22px;
+    color: #6e6e6e;
+  }
+
+  .section-testimonial-content .card-testimonial hr {
+    margin-left: -20px;
+    margin-right: -20px;
+  }
+
+  .section-testimonial-content .btn-get-started {
+    background-color: #FF9E53;
+    color: #ffffff;
+  }
+
+  .section-testimonial-content .btn-get-started:hover {
+    background-color: #ffaa69;
+    color: #ffffff;
+  }
+
+  .section-testimonial-content .btn-help {
+    background-color: #f2f2f2;
+    color: #c3c3c3;
+  }
+
+  .section-testimonial-content .btn-help:hover {
+    background-color: #fafafa;
+    color: #c3c3c3;
+  }
+
+  .section-footer a {
+    color: #071C4D;
+  }
+
+  .section-details-header {
+    min-height: 310px;
+    background: #E4E6EB;
+    margin-top: -70px;
+  }
+
+  .section-details-content {
+    margin-top: -210px;
+    min-height: 100vh;
+  }
+
+  .section-details-content .breadcrumb {
+    background-color: transparent;
+    padding: 0;
+    margin-bottom: 30px;
+  }
+
+  .section-details-content .breadcrumb-item.active {
+    font-weight: bold;
+    color: #071C4D;
+  }
+
+  .section-details-content .card-details {
+    padding: 30px;
+    border-radius: 11px;
+  }
+
+  .section-details-content .card-details h1 {
+    font-size: 26px;
+  }
+
+  .section-details-content .card-details h2 {
+    font-size: 20px;
+  }
+
+  .section-details-content .card-details h3 {
+    font-weight: 300;
+    font-size: 14px;
+    color: #071c4d;
+  }
+
+  .section-details-content .card-details p {
+    font-size: 18px;
+    color: #B1B1B1;
+  }
+
+  .section-details-content .card-details .trip-information th {
+    font-weight: 300;
+    font-size: 18px;
+    color: #071C4D;
+  }
+
+  .section-details-content .card-details .trip-information td {
+    font-weight: 300;
+    font-size: 18px;
+    color: #B1B1B1;
+  }
+
+  .section-details-content .card-details .trip-information .text-blue {
+    color: #071C4D;
+    font-weight: bold;
+  }
+
+  .section-details-content .card-details .trip-information .text-orange {
+    color: #FF9E53;
+    font-weight: bold;
+  }
+
+  .section-details-content .card-details .user-information th {
+    font-weight: 300;
+    font-size: 18px;
+    color: #071C4D;
+  }
+
+  .section-details-content .card-details .user-information td {
+    font-weight: 300;
+    font-size: 18px;
+    color: #B1B1B1;
+  }
+
+  .section-details-content .card-details .user-information .text-blue {
+    color: #071C4D;
+    font-weight: bold;
+  }
+
+  .section-details-content .card-details .user-information .text-orange {
+    color: #FF9E53;
+    font-weight: bold;
+  }
+
+  .section-details-content .card-details .user-information .img {
+    width: 50px;
+    height: 50px;
+  }
+
+  .section-details-content .card-details .payment-instruction {
+    font-weight: 300;
+    font-size: 14px;
+    color: #B1B1B1;
+  }
+
+  .section-details-content .card-details .bank .bank-item h3 {
+    font-size: 18px;
+    color: #071C4D;
+    margin-bottom: 0;
+  }
+
+  .section-details-content .card-details .bank .bank-item p {
+    margin-bottom: 0;
+  }
+
+  .section-details-content .card-details .bank .bank-item .description {
+    margin-left: 10px;
+    overflow: hidden;
+    float: left;
+  }
+
+  .section-details-content .card-details .bank .bank-item .description p {
+    font-weight: normal;
+    font-size: 16px;
+    color: #071c4d;
+  }
+
+  .section-details-content .card-details .bank .bank-image {
+    width: 45px;
+    height: 45px;
+    float: left;
+  }
+
+  .section-details-content .card-details .disclaimer {
+    font-weight: 300;
+    font-size: 14px;
+    color: #B1B1B1;
+  }
+
+  .section-details-content .card-details .gj-datepicker .datepicker {
+    border-right: 0;
+  }
+
+  .section-details-content .card-details .gj-datepicker .input-group-append .btn {
+    padding-right: 30px;
+  }
+
+  .section-details-content .card-details .btn-add-now {
+    background-color: #071C4D;
+    color: #fff;
+  }
+
+  .section-details-content .card-details .btn-add-now:hover {
+    background-color: #2A53B4;
+    color: #fff;
+  }
+
+  .section-details-content .card-right {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom: 0;
+  }
+
+  .section-details-content .features {
+    margin-top: 20px;
+  }
+
+  .section-details-content .features h3 {
+    font-size: 18px;
+    color: #071C4D;
+    margin-bottom: 0;
+  }
+
+  .section-details-content .features p {
+    margin-bottom: 0;
+  }
+
+  .section-details-content .features .description {
+    margin-left: 10px;
+    overflow: hidden;
+    float: left;
+  }
+
+  .section-details-content .features .features-image {
+    width: 45px;
+    height: 45px;
+    float: left;
+  }
+
+  .section-details-content .gallery .xzoom-container {
+    display: block;
+  }
+
+  .section-details-content .gallery .xzoom-container .xzoom {
+    width: 100%;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    margin-bottom: 10px;
+  }
+
+  .section-details-content .gallery .xzoom-container .xactive {
+    border: 4px solid #1ABC9C;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+  }
+
+  .section-details-content .member .member-image {
+    width: 40px;
+    height: 40px;
+  }
+
+  .section-details-content .join-container {
+    margin-top: -16px;
+  }
+
+  .section-details-content .btn-join-now {
+    background-color: #FF9E53;
+    color: #fff;
+    border-radius: 0;
+  }
+
+  .section-details-content .btn-join-now:hover {
+    background-color: #ffaa69;
+    color: #fff;
+  }
+
+  .section-success {
+    height: 90vh;
+  }
+
+  .section-success h1 {
+    font-weight: 600;
+    font-size: 26px;
+    color: #071C4D;
+  }
+
+  .section-success p {
+    font-weight: 300;
+    font-size: 18px;
+    color: #B1B1B1;
+  }
+
+  .section-success .btn-home-page {
+    border-radius: 4px;
+    background-color: #071C4D;
+    color: #fff;
+  }
+
+  .section-success .btn-home-page:hover {
+    background-color: #2A53B4;
+    color: #fff;
+  }
+
+  .carousel-item {
+      position: relative;
+  }
+
+  .carousel-caption {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white; /* Adjust color as needed */
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Optional: Adds shadow to text for better visibility */
+      font-family: 'Playfair Display', serif;
+      font-size: 2rem; /* Adjust font size as needed */
+  }
+
+  .carousel-control-prev,
+  .carousel-control-next {
+      opacity: 0.5;  /* Reduce opacity */
+      background-color: rgba(0, 0, 0, 0.3); /* Optional: Adds semi-transparent background */
+      border: none;  /* Remove border */
+      color: white;  /* Text color */
+      width: 5%;  /* Adjust width of the buttons */
+  }
+
+  .carousel-control-prev:hover,
+  .carousel-control-next:hover {
+      opacity: 0.8;  /* Increase opacity on hover */
+  }
+
+  .carousel-control-prev,
+  .carousel-control-next {
+      transition: opacity 0.3s ease, background-color 0.3s ease;
+  }
+
+  .card-link {
+      text-decoration: none;
+      color: inherit;
+  }
+
+  .hover-card {
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .hover-card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
+  /* Center the login form container */
+  .login-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f7fafc; /* Light background color for the page */
+  }
+
+  /* Style for the login card */
+  .login-card {
+      background-color: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      width: 100%;
+      max-width: 400px; /* Set a maximum width */
+  }
+
+  /* Add some spacing to the form elements */
+  .mb-4 {
+      margin-bottom: 1rem;
+  }
+
+  /* Style for the login heading */
+  h2 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: #333;
+  }
+
+  /* Ensure both inputs have the same padding and border */
+  .login-input,
+  .register-input,
+  .forgot-input {
+      padding: 1rem; /* consistent padding for both inputs */
+      border: 1px solid #ccc; /* consistent border style */
+      width: 100%; /* make sure inputs are full width */
+      border-radius: 4px; /* rounded corners */
+      box-sizing: border-box; /* include padding in width calculation */
+  }
+
+  .login-input:focus,
+  .register-input:focus,
+  .forgot-input:focus {
+      outline: none;
+      border-color: #071C4D; /* Blue border on focus */
+      box-shadow: 0 0 5px rgba(76, 154, 255, 0.5);
+  }
+
+ /* Login Button Styles */
+.login-button,
+.register-button,
+.forgot-button {
+    background-color: #071C4D; /* Blue background */
+    color: white;
+    padding: 0.75rem 1.5rem; /* Adjust padding for tight fit */
+    border-radius: 0px; /* No border-radius for sharp corners */
+    width: 100%;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border: none; /* Remove border */
+}
+
+.login-button:hover,
+.register-button:hover,
+.forgot-button:hover {
+    background-color: #2A53B4;
+    border: none;
+}
+
