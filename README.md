@@ -67,7 +67,7 @@ e) **Login and User Management**
 
 ### ERD
 
-![Database ER diagram (crow's foot)](https://github.com/user-attachments/assets/705be48e-418e-4015-aa5d-620bc64d4e83)
+![Database ER diagram (crow's foot)](<img width="468" height="402" alt="Image" src="https://github.com/user-attachments/assets/a5cb81c1-cf20-425c-a1a6-309753751b4c" />)
 
 ### Sequence Diagram
 
