@@ -195,13 +195,13 @@ e) **Login and User Management**
 
     The page also includes a "Save this restaurant" button for users to bookmark the restaurant and a "Back to List" button to navigate back to the main restaurant listing page.
 
-12. Travel Package
+8. Travel Package
 
-    ![Travel package](https://github.com/ahumairah02/Group-Project/blob/333945ee630fd5041f00a04fe37979a2a010673d/images/travelPackage.jpeg)
+    ![Travel package](https://github.com/user-attachments/assets/6cc08996-59cb-4a1d-a401-8ff2421e6443)
 
     This section allows **administrators** to manage travel packages offered by the **Taqwa Travel**. Admins can **create new packages, view existing ones, edit details**, and **delete packages** as needed.
 
-    ![add Travel package](https://github.com/ahumairah02/Group-Project/blob/333945ee630fd5041f00a04fe37979a2a010673d/images/addPackage.jpeg)
+    ![add Travel package](https://github.com/user-attachments/assets/4d04103b-cf6d-40ef-bc71-29fcafe42678)
     
     This section is where admins **create new travel packages** for the **Taqwa Travel**.
 
@@ -211,18 +211,10 @@ e) **Login and User Management**
     2. Enter Details: Fill in the **Package Name, Description**, and **Price**.
     3. Save Package: Click **"Add Package"** to create the new package.
 
-    ![edit Travel package](https://github.com/ahumairah02/Group-Project/blob/333945ee630fd5041f00a04fe37979a2a010673d/images/editPackage.jpeg)
+  
 
-    This section allows **admins** to **update travel package** details.
-
-    **How it works**:
-    
-    Select Package: Choose the **package** to edit.
-    Modify Details: Change the **Destination, Name, Description**, or **Price**.
-    Save Changes: Click **"Update Package"** to save the changes.
-
-14. Prayer Space
-    ![Prayer Space](https://github.com/ahumairah02/Group-Project/blob/65cfeee25206e9b319dea16fc6f699868ec7b74e/images/PrayerSpace.jpeg)
+9. Prayer Space
+    ![Prayer Space](https://github.com/user-attachments/assets/d366e8ff-f50e-412f-998a-0d08bbb6dcad)
 
 
 
