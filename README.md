@@ -143,7 +143,7 @@ e) **Login and User Management**
    **restaurants**, and **travel packages**. There is also a button to go back to all destinations for further exploration.
 
 
-7. Hotel
+6. Hotel
     
     ![hotel](https://github.com/user-attachments/assets/51df12f3-6aa0-445a-b918-82cf15599863)
     
@@ -162,9 +162,9 @@ e) **Login and User Management**
     
     
 
-12. Restaurant
+7. Restaurant
      **Restaurant in Navigation Bar**
-     ![Restaurant](https://github.com/ahumairah02/Group-Project/blob/333945ee630fd5041f00a04fe37979a2a010673d/images/restaurant%20page.jpeg)
+     ![Restaurant](https://github.com/user-attachments/assets/2b4f0fdf-9048-4f17-927c-50a65abfa5f6)
 
     
     This page is shown when the user clicks "Restaurants" in the navigation bar. The system retrieves and lists all suggested restaurants stored in the database. Each restaurant card        includes the name, address, halal certification status, rating, and a button to view more details.
@@ -173,14 +173,14 @@ e) **Login and User Management**
     - **Sort By** dropdown         : allow users to sort the restaurant base on their preference (Rating and halal status)
 
     **Restaurant by destinantion**
-    ![Restaurant_dest](https://github.com/ahumairah02/Group-Project/blob/8099f4ab7029958b93db23596fa3f6f9a17918d9/images/restaurant_dest.png)
+    ![Restaurant_dest](https://github.com/user-attachments/assets/36fedbb5-19c2-4a0e-950f-2ca4b91fcad1)
 
     
     This page is displayed when the user selects "Retaurants" from the destination page and filters results based on a specific destination (e.g., Kuala Lumpur). The system retrieves 
     and shows suggested restaurants based on the chosen destination. Each restaurant card provides the name, address, halal certification status, and rating. 
 
      **View restaurant detais**
-    ![Restaurant details](https://github.com/ahumairah02/Group-Project/blob/333945ee630fd5041f00a04fe37979a2a010673d/images/restaurant%20detail.jpeg)
+    ![Restaurant details](https://github.com/user-attachments/assets/98faa91e-487d-4871-8385-ce7a76d18583)
 
     
    **Description for the image:**  
@@ -225,8 +225,6 @@ e) **Login and User Management**
     ![Prayer Space](https://github.com/ahumairah02/Group-Project/blob/65cfeee25206e9b319dea16fc6f699868ec7b74e/images/PrayerSpace.jpeg)
 
 
-    
-15.Payment page : ![Screenshot 2025-01-18 141007](https://github.com/user-attachments/assets/4a8abfa3-8bbb-475d-9508-0651edaa2a87)
 
 ### Challenges & Difficulties to Develop The Application
 
