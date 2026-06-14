@@ -137,58 +137,25 @@ e) **Login and User Management**
 
 5. Destinations Details
 
-   ![destinations4](https://github.com/ahumairah02/Group-Project/blob/142c800b911487373b10f1ce6d65de568dc76ded/images/destinations(3).png)
-   ![destinations5](https://github.com/ahumairah02/Group-Project/blob/142c800b911487373b10f1ce6d65de568dc76ded/images/destinations(4).png)
-
+   ![destinations4](https://github.com/user-attachments/assets/11953210-b8ff-46eb-8693-5c799fd14b08)
+  
    Clicking on **View Details** will display a **carousel of images** showcasing the selected destination. Users can also view information about the destination’s **hotels**,
    **restaurants**, and **travel packages**. There is also a button to go back to all destinations for further exploration.
 
-7. Flights
 
-   ![flights](https://github.com/ahumairah02/Group-Project/blob/d5b57cf115718994a8c1537b478b4359a6aa296d/images/flights.png)
-
-    The flight page displays the available flights for the selected destination. It includes a list of flights with the following details:
-
-    - **Flight Number**
-    - **Price**
-
-    Users can choose a flight from the list. Once they click on a specific flight, they will be redirected to the **Booking Flight Page** to proceed with their booking.
-
-8. Booking Flights
-
-   ![flights-info](https://github.com/ahumairah02/Group-Project/blob/d5b57cf115718994a8c1537b478b4359a6aa296d/images/flights-info.png)
-
-   The booking flight page requires users to fill in the following information to complete their booking:
-
-    - **Full Name**
-    - **Email Address**
-    - **Phone Number**
-    - **Payment Information**
-
-    Once the required details are entered and the booking is confirmed, users will be directed to the **Confirmation Page** for final review and confirmation of their flight reservation.
-
-9. Confirmation
-
-   ![confirmation](https://github.com/ahumairah02/Group-Project/blob/d5b57cf115718994a8c1537b478b4359a6aa296d/images/confirmation.png)
-
-   The confirmation page ensures that the user’s booking has been successfully confirmed. It includes a message confirming the reservation details and notifies the user that a
-   **confirmation email** will be sent shortly with all relevant booking information.
-
-
-
-10. Hotel
+7. Hotel
     
-    ![hotel](https://github.com/ahumairah02/Group-Project/blob/333945ee630fd5041f00a04fe37979a2a010673d/images/hotel%20page.jpeg)
+    ![hotel](https://github.com/user-attachments/assets/51df12f3-6aa0-445a-b918-82cf15599863)
     
     
     This page is shown when the user clicks "hotel" in the navigation bar. The system retrieves and lists all suggested hotels stored in the database. Each hotel card             includes the name, address, halal certification status, rating, and along with a button to book via an external platform like Booking.com..
     
-    ![hotel_dest](https://github.com/ahumairah02/Group-Project/blob/a26edb043265b81b13d74da544777cbbd179ffee/images/hotel_dest.png)
+    ![hotel_dest](https://github.com/user-attachments/assets/ac948ad0-ea70-422c-b671-9624b8441421)
     
     
     This page is displayed when the user selects "Hotels" from the destination page and filters results based on a specific destination (e.g., Kuala Lumpur). The system retrieves and        shows suggested hotels based on the chosen destination. Each hotel card provides the name, address, halal certification status, and rating, along with a button to book via an            external platform like Booking.com.
     
-    ![hotel booking](https://github.com/ahumairah02/Group-Project/blob/333945ee630fd5041f00a04fe37979a2a010673d/images/booking.com%20page.png)
+    ![hotel booking](https://github.com/user-attachments/assets/a8356c07-24a1-4a4f-9a65-3bd4f62a540e)
 
     
     When user click **book via Booking.com**,it will redirect to the Booking.com page.
