@@ -112,9 +112,8 @@ e) **Login and User Management**
 4. Destinations
 
     ![destinations](https://github.com/ahumairah02/Group-Project/blob/d5b57cf115718994a8c1537b478b4359a6aa296d/images/destinations.png)
-    ![destinations2](https://github.com/ahumairah02/Group-Project/blob/d5b57cf115718994a8c1537b478b4359a6aa296d/images/destinations(1).png)
-    ![destinations3](https://github.com/ahumairah02/Group-Project/blob/d5b57cf115718994a8c1537b478b4359a6aa296d/images/destinations(2).png) 
-
+    ![destinations2](https://github.com/user-attachments/assets/99e934ee-916e-4ac0-93db-3a055c481509)
+   
     The destinations page allows users to search for their ideal travel plans with a **Choose Destination** form. The form includes:
 
     - **Select Destination**: Choose the desired travel location.
