@@ -95,7 +95,7 @@ e) **Login and User Management**
       
 3. Register
 
-   ![register](https://github.com/ahumairah02/Group-Project/blob/d5b57cf115718994a8c1537b478b4359a6aa296d/images/register.png)
+   ![register](https://github.com/user-attachments/assets/3bb81aed-4922-4354-8f94-13c18c8dce81)
 
    The registration page allows new users to create an account by filling in the following details:
 
