@@ -71,7 +71,7 @@ e) **Login and User Management**
 
 ### Sequence Diagram
 
-![SqD](https://github.com/user-attachments/assets/6258e527-a119-4f6a-8938-0c4a3d00b0da)
+![SqD](https://github.com/user-attachments/assets/e3ab0abf-c903-4b8c-8eff-31c482059957)
 
 
 ### Screenshots with description
