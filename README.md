@@ -78,7 +78,7 @@ e) **Login and User Management**
 
 1. Homepage
    
-   ![homepage](https://github.com/ahumairah02/Group-Project/blob/eeebc83ac25143410de5ae05ccddc1031057d868/images/homepage.png)
+   ![homepage](https://github.com/user-attachments/assets/13d4da0b-5957-4ca6-8725-9f2acf5feddd)
    
     This is the homepage of our website, **Taqwa Travels**. It includes six navigation options: Home, Destinations, Hotels, Restaurants, Travel Packages, and Prayer Spaces. The **Get        Started** button leads to the login page. Users can also log in or log out from the navigation bar.
 
