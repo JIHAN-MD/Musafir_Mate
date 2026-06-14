@@ -4,7 +4,7 @@
 | ------------- | ------------- | ------------- |
 |1. MD.JIHAN | 2311141 | Objectives, Travel Package, Title & Introduction, Restaurant |
 |2. MEEM MUHAMMAD AL HA  | 2322477 |  Features & Functionalities, Hotel, Destinations & Flights, Prayer Space  |
-|3. ABDULLAH AL JUBAYER  | 2131751  |  ERD, Login, Sequence Diagram |
+|3. ABDULLAH AL JOBAYER  | 2131751  |  ERD, Login, Sequence Diagram |
       
 ### Title
 MUSAFIR MATE
