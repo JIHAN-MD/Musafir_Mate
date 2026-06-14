@@ -80,7 +80,7 @@ e) **Login and User Management**
    
    ![homepage](https://github.com/user-attachments/assets/13d4da0b-5957-4ca6-8725-9f2acf5feddd)
    
-    This is the homepage of our website, **Taqwa Travels**. It includes six navigation options: Home, Destinations, Hotels, Restaurants, Travel Packages, and Prayer Spaces. The **Get        Started** button leads to the login page. Users can also log in or log out from the navigation bar.
+    This is the homepage of our website, **Musfir Mate**. It includes six navigation options: Home, Destinations, Hotels, Restaurants, Travel Packages, and Prayer Spaces. The **Get        Started** button leads to the login page. Users can also log in or log out from the navigation bar.
 
 2. Login
 
@@ -199,11 +199,11 @@ e) **Login and User Management**
 
     ![Travel package](https://github.com/user-attachments/assets/6cc08996-59cb-4a1d-a401-8ff2421e6443)
 
-    This section allows **administrators** to manage travel packages offered by the **Taqwa Travel**. Admins can **create new packages, view existing ones, edit details**, and **delete packages** as needed.
+    This section allows **administrators** to manage travel packages offered by the **Musafir Mate**. Admins can **create new packages, view existing ones, edit details**, and **delete packages** as needed.
 
     ![add Travel package](https://github.com/user-attachments/assets/4d04103b-cf6d-40ef-bc71-29fcafe42678)
     
-    This section is where admins **create new travel packages** for the **Taqwa Travel**.
+    This section is where admins **create new travel packages** for the **Musafir Mate**.
 
     **How it works:**
     
